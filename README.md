@@ -16,7 +16,7 @@ US 30 year mortgage rates, constant maturity 30 year US Treasury bond yields, an
 
 ## Chart Description
 
-Spread between mortgage rates and Treasury yields on primary axis with quarterly origination amount ($ Billions) on the secondary axis.
+Spread between mortgage rates and Treasury yields on primary axis with quarterly origination amount ($ Billions) on the secondary axis.  Includes range slider to focus on time series.
 
 https://gmhfx.github.io/MortgageRatesTreasury/
 
