@@ -18,7 +18,7 @@ US 30 year mortgage rates, constant maturity 30 year US Treasury bond yields, an
 
 Spread between mortgage rates and Treasury yields on primary axis with quarterly origination amount ($ Billions) on the secondary axis.
 
-https://gmhfx.github.io/30Yr Mortgage UST Basis/
+https://gmhfx.github.io/MortgageRatesTreasury/
 
 ### Contact
 
