@@ -1,6 +1,6 @@
-# 30 Year Morgage Rate Spread Over 30 Yr Treasury Yields
+# 30 Year Morgage Rate Spread Over 10 Yr Treasury Yield
 
-Chart plotting the spread between US 30 year mortgage and 30 year US Treasury bondsUS Public Debt over the last 30 years.
+Chart plotting the spread between US 30 year mortgage and 10 year US Treasury bonds.
 
 ## Technologies
 
@@ -11,12 +11,12 @@ Chart plotting the spread between US 30 year mortgage and 30 year US Treasury bo
 
 ## Data
 
-US 30 year mortgage rates, constant maturity 30 year US Treasury bond yields, and Large Bank Consumer Mortgage Origination data where available.  Sourced from (https://fred.stlouisfed.org/).
+US 30 year mortgage rates, constant maturity 10 year US Treasury bond yields.  Sourced from (https://fred.stlouisfed.org/).
 
 
 ## Chart Description
 
-Spread between mortgage rates and Treasury yields on primary axis with quarterly origination amount ($ Billions) on the secondary axis.  Includes range slider to focus on time series.
+Spread between mortgage rates and Treasury yields on y-axis over time on x-axis.  Includes range slider to focus on time series.
 
 https://gmhfx.github.io/MortgageRatesTreasury/
 
