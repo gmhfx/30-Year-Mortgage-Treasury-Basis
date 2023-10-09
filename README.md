@@ -18,7 +18,7 @@ US 30 year mortgage rates, constant maturity 10 year US Treasury bond yields.  S
 
 Spread between mortgage rates and Treasury yields on y-axis over time on x-axis.  Includes range slider to focus on time series.
 
-https://gmhfx.github.io/MortgageRatesTreasury/
+https://gmhfx.github.io/30-Year-Mortgage-Treasury-Basis/
 
 ### Contact
 
